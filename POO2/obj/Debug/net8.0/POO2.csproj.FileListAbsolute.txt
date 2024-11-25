@@ -1,0 +1,35 @@
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\Arrays.exe
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\POO2.exe
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\POO2.deps.json
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\POO2.runtimeconfig.json
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\POO2.dll
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\POO2.pdb
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\Arrays.dll
+C:\Users\Nicolas\source\repos\POO2\POO2\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.csproj.Up2Date
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.dll
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\refint\POO2.dll
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.pdb
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\POO2.genruntimeconfig.cache
+C:\Users\Nicolas\source\repos\POO2\POO2\obj\Debug\net8.0\ref\POO2.dll
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\bin\Debug\net8.0\POO2.exe
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\bin\Debug\net8.0\POO2.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\bin\Debug\net8.0\POO2.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\bin\Debug\net8.0\POO2.dll
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\bin\Debug\net8.0\POO2.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.dll
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\refint\POO2.dll
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\POO2.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Curso Seba\2. Ejercicios\repos\POO2\POO2\obj\Debug\net8.0\ref\POO2.dll
